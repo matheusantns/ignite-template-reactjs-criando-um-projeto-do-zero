@@ -1,1 +1,36 @@
-// TODO
+.postInfo {
+  margin-bottom: 45px;
+
+  h2 {
+    cursor: pointer;
+    font-size: 28px;
+    margin-bottom: 10px;
+
+    transition: 0.2s all;
+  }
+
+  h2:hover {
+    color: var(--highlight)
+  }
+
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  div {
+    display: flex;
+
+    span {
+      font-size: 14px;
+      margin-right: 25px;
+    }
+  }
+}
+
+.loadMore {
+  padding-top: 20px;
+  cursor:pointer;
+  font-weight: 600;
+  color: var(--highlight)
+}
