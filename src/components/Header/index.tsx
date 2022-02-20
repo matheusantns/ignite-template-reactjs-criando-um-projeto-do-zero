@@ -1,17 +1,10 @@
 import styles from './header.module.scss'
+import Link from 'next/link'
 
-export default function Header(props) {
-  {
-    if (props.margin === "home") {
+export default function Header() {
       return (
-        <div className={styles.home}>
-          <img src="/Logo.svg" alt="Logo da SpaceTravelling" />
-        </div>
-      )} else if (props.margin === "post") {
-        return (
-        <div className={styles.post}>
-          <img src="/Logo.svg" alt="Logo da SpaceTravelling" />
-        </div>
-        )}
-  }
+          <Link href="/">
+            <img className={styles.headerImg} src="/Logo.svg" alt="logo" />
+          </Link>
+      )
 }
