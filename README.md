@@ -1,7 +1,7 @@
 # spacetravelling
 ## Projeto desafio desenvolvido no RocketSeat Ignite
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7GrlMciNkyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=7GrlMciNkyc
 
 O desafio é criar uma aplicação do zero em ReactJS (NextJS).
 
