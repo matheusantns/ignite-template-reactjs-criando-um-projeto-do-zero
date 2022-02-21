@@ -4,6 +4,8 @@
 [![spacetravelling](https://img.youtube.com/vi/7GrlMciNkyc/0.jpg)](https://www.youtube.com/watch?v=7GrlMciNkyc)
 ### Clique na miniatura acima pra ver um vídeo do resultado!
 
+
+
 O desafio é criar uma aplicação do zero em ReactJS (NextJS).
 
 O objetivo principal é criar um blog do zero:
